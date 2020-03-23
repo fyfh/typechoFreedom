@@ -13,7 +13,7 @@ $db = Typecho_Db::get();
 
 if ($_SERVER['REQUEST_METHOD'] == 'POST') {
 
-    include_once "setting.php";
+    include_once "common/setting.php";
     return;
 }
 ?>
