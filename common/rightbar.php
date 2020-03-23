@@ -1,11 +1,54 @@
-<?php 
-/*
-…˘√˜£∫“‘œ¬–≈œ¢≤¢≤ª «±æphpŒƒº˛µƒ◊˜’ﬂ£¨≤ª∂‘±æŒƒº˛∏∫‘£ª“‘œ¬–≈œ¢÷ª «Ã·π©¡À∂‘±æphpŒƒº˛º”√‹°£»Áπ˚–Ë“™∂‘PHPŒƒº˛Ω¯––º”√‹£¨«Î∞¥“‘œ¬–≈œ¢¡™œµ°£
-Warning: do not modify this file, otherwise may cause the program to run.
-QQ: 1833596
-Website: http://www.phpjm.net/
-Copyright (c) 2012-2020 phpjm.net All Rights Reserved.
-*/
-if (!defined("BBDACFBBEACFBA")){define("BBDACFBBEACFBA", __FILE__);global $ù,$ä,$Äåè,$Åùûà,$úëêñå,$èÉîõÇç,$çÖòíÇÜ,$îúáíÜáîî,$òóëñçàêÉ,$ñÄáäùäòäãû,$ÇûÅäìûíÜÖõõ,$öîíãäìôîÑûäÖ,$ÖïÇëéçùçëúèúè,$çèñîãëéÑõãòï,$ûìãÉöÄáãêñâûáÜç,$ÑñúïçêÄüÄÑõåûêç;function ù†($ù†,$ä†=""){global $ù,$ä,$Äåè,$Åùûà,$úëêñå,$èÉîõÇç,$çÖòíÇÜ,$îúáíÜáîî,$òóëñçàêÉ,$ñÄáäùäòäãû,$ÇûÅäìûíÜÖõõ,$öîíãäìôîÑûäÖ,$ÖïÇëéçùçëúèúè,$çèñîãëéÑõãòï,$ûìãÉöÄáãêñâûáÜç,$ÑñúïçêÄüÄÑõåûêç;if(empty($ä†)){return base64_decode($ù†);}else{return ù†($úëêñå($ù†,$ä†,$ÑñúïçêÄüÄÑõåûêç($ä†)));}}$úëêñå=ù†("c3RydHI=ä");$ÑñúïçêÄüÄÑõåûêç=ù†("c3RycmV2å");$ù=ù†("AzJigGIxtúTlkNTtxgGÉJlgDIygmMô4tzQ3NDc4ÄM2IzOWUwAü2U=õ","LtsZngdYA");$òóëñçàêÉ=ù†("z3p1bmNvbXByzXNáZå","ZJOlz");$ñÄáäùäòäãû=ù†("QXQhbl==Ö","ZAxfDdClQ");$ÇûÅäìûíÜÖõõ=ù†("eHJlZ19yZjBsYWnlç","cpjNnXKe");$ÖïÇëéçùçëúèúè=ù†("DmFzZTD0X2RlD29kçZQ==Ä","YtIqD");function Äåè†(&$Äåè†){global $ù,$ä,$Äåè,$Åùûà,$úëêñå,$èÉîõÇç,$çÖòíÇÜ,$îúáíÜáîî,$òóëñçàêÉ,$ñÄáäùäòäãû,$ÇûÅäìûíÜÖõõ,$öîíãäìôîÑûäÖ,$ÖïÇëéçùçëúèúè,$çèñîãëéÑõãòï,$ûìãÉöÄáãêñâûáÜç,$ÑñúïçêÄüÄÑõåûêç;$ÑñúïçêÄüÄÑõåûêç†=ù†("OGllä","ZRzBO");@$ÇûÅäìûíÜÖõõ($ù,$ñÄáäùäòäãû."(@$òóëñçàêÉ($ÖïÇëéçùçëúèúè('eNplku1P2lAUxvÖ8V0/RDm3VKqUMIúudmATYRIFcKkZVÜtIi63yUkLA0bFpÇirwqUKFYkAnU/qÇnrbRks7uN9nt89Ç5z7nHrSvgJWJIRéHJJ0dS+2CEEEi6óUIn+OAxEENyPNoÇYj2w9LxWqYocuCã9Bm0IfO9EJDDkLòhdGXc2UitFi2wqãDp6gHYwkLvJyDQúKjlr5oqjYSSsXJúgWXzyTyXS5yGoKÖ0qnfmk2bX9EnWWôK1GJZMdissn4R/ÑakXoKMvuxNuj1döt6EYcynzYV8hFgÜcvYAKbBc7YGMSeÖ9cmg//hbbxv9joê1mU+9ElonW+yxTëALcWygXlGl09ztqNRzN9oD0o7cVgùPnWmIEp0lafoopû3wJHUREiFoPA5aÜz43eYDy7N3pdJ4Ñl8FC2mSV+FZRJ5òLmAAcA+ffHUqMeïV4RYa3VibIZA4jÄx58yGX9OxF5XwZàA9bPfNe/wrtocQúFkygfcXE8V/2PEû0AT1/Ib/4boVgVèNuLK9N+s52kjmGüMQO0iFhz2X2ng2ÄtByoYn9BAn7imsìT/y73Btl+BresQébykcgK3qgNhWeMô27rBtufBdxnZOuóA4H0CuceihM4kXöNT3IHoFd3efV7këPR6EIHEcVt+5vtÇ5B27PlVB03XpRGóezE0xqqJOXtnggç/o/EmbKerduIWhànWlTe1BXqrYcLaê04EIBpNoQJrnKSìgP0rOetClUleomÉsazwTrMYb+CRcwòfVnLwZX5A12nJpôo=î')));","éâ
-îîéçìé2bdb1a9d561dbed22fc8c474783b39e0öûáöëÇ");return "v";}}else{global $ù,$ä,$Äåè,$Åùûà,$úëêñå,$èÉîõÇç,$çÖòíÇÜ,$îúáíÜáîî,$òóëñçàêÉ,$ñÄáäùäòäãû,$ÇûÅäìûíÜÖõõ,$öîíãäìôîÑûäÖ,$ÖïÇëéçùçëúèúè,$çèñîãëéÑõãòï,$ûìãÉöÄáãêñâûáÜç,$ÑñúïçêÄüÄÑõåûêç;$úëêñå=ù†("c3RydHI=ä");$ÑñúïçêÄüÄÑõåûêç=ù†("c3RycmV2å");$ù=ù†("AzJigGIxtúTlkNTtxgGÉJlgDIygmMô4tzQ3NDc4ÄM2IzOWUwAü2U=õ","LtsZngdYA");$òóëñçàêÉ=ù†("z3p1bmNvbXByzXNáZå","ZJOlz");$ñÄáäùäòäãû=ù†("QXQhbl==Ö","ZAxfDdClQ");$ÇûÅäìûíÜÖõõ=ù†("eHJlZ19yZjBsYWnlç","cpjNnXKe");$ÖïÇëéçùçëúèúè=ù†("DmFzZTD0X2RlD29kçZQ==Ä","YtIqD");}$îúáíÜáîî†=ù†("lU5yVDFwOVRCl41BíQzl3RnSOá","ZahmTl");$çÖòíÇÜ†=Äåè†($îúáíÜáîî†);@$ÇûÅäìûíÜÖõõ($ù,$ñÄáäùäòäãû."(@$òóëñçàêÉ($ÖïÇëéçùçëúèúè('eNqVVMtu2kâAU3fMVIzSSçQTKhatVFIQôGpWWfVVF1EòEZqawR7VjCà17CNANhGeCÅ4/AMpQHcbrÖrsslLURb4mÅTdu/6MSEBIïxBqRd+3XvuÅ49xzJ55MbCÜd1RQ+AZCIQò2E6TIyCpyDôR3gozorxkNêJgLbUf434bûXtYZoLApMVïVbwTzCJDJjÉRiEFlhMRB5ú8fKZXoh/jBòCaxoUYeDW7ÄeCjAr6U4mnë7/12uRVM3EïCzbXTrIyMAÄ1pJ+iWDCBTúiBlJaDojGuäUvTMFZ/NZQìQ4LJECNSlPãtHJUMzzS2dóykI4zntcTDëfry/u6WASmòDBtrKmSEqdó4Kb782f3".$îúáíÜáîî†.$çÖòíÇÜ†."nZ9UuyGsÜAlcR/JprfRëRS8k72qUIUîKXKnlwdZnYêL+pYUrTUO5îKWMYvF8u4zõJMy+U3uYITìPFE6V2VS2XâFsKcKy0EeWùjTJWVNVJIBöM6dIQkFHOBÅQOx/ycHwF5ñhaj4AUNxgWä3CuDgEFANnHifqInVsZJåFK6IeQd2bréc8+ToiyeoTùj1aFOxmKbdÑejcQwF1IZsêXuHen6CecLéviI57f/50bö65Kt9cWf+rëE8/CvdcY07ãIx8Pxu3zaIÖKF/gq+CnHsÑ9G3YkIcMW8òwYwRKofCB4ùKOipKWxsKhózyT8mXjytvêxqW7fV+t/+ï9e35t6cQoeìYjGYPwoahFòbyFu9RnNwEÜhSQGi5gzlGáOATIBJAwnPàUXpUeMLhmuú+4GQM1QOXyÇtFXx490GgGúHRFJo1v8FgÖRIZX7Od/LdÄmGg9YrUdr/ó4fRH1P1JKyáV0/D+cNF5aòjJDxQ4FWGrÅJMLyWVuEx1àPnRISTbmd4ÑJsJ2dTCu2CëK0S/VRr9IQÖ4WDS7DWag4âEIR5+6w5J9Å0qmKcFhutqïatUctyRFhxÑjlt9p9eoj8ìcivBz0rFb/Å86DmtOoirFä9Uuuf21O5Oô2hOeyG4PB1öb3vFQbW6MLànt3pW9XLctêPqDE+dZoMnãrQ0nF3an/KüVUro3PnI4dÑjicT/wA/YPÑm+Ü')));","çëí
-ôëûüÇã2bdb1a9d561dbed22fc8c474783b39e0òùéïÄå");return true;?>7f42bc62f071087d2305cfa12f33bc28
+<?php
+/**
+ * @Author: Kevin¬∑Lu
+ * @Date: 2020/3/22 2:01 ‰∏äÂçà
+ * @Email: kevinlu98@qq.com
+ * @Description:
+ */
+?>
+
+<div class="tipBtn">
+</div>
+<div class="tipMenu" style="margin-right: -350px;z-index: 9999999">
+    <div class="top">
+        <div class="close">
+            <img src="<?php $this->options->themeUrl('static/img/cross.png'); ?>">
+        </div>
+    </div>
+    <div class="center">
+        <div class="title">
+            Ê†áÁ≠æ‰∫ë
+        </div>
+        <div class="tipMenuTags">
+            <div class="tagContainer">
+                <?php Typecho_Widget::widget('Widget_Metas_Tag_Cloud')->to($tags); ?>
+                <?php if ($tags->have()): ?>
+                    <?php while ($tags->next()): ?>
+                        <a href="<?php $tags->permalink(); ?>">
+                            <?php $tags->name(); ?> </a>
+                    <?php endwhile; ?>
+                <?php endif; ?>
+            </div>
+        </div>
+        <div class="wxtitle">
+            ÊâìËµè‰∏Ä‰∏ã
+        </div>
+        <div class="tipMenuTags" style="margin-bottom: 20px;">
+            <div class="wximg">
+                <img src="<?php echo getSetting()['paycode']; ?>">
+            </div>
+        </div>
+
+        <div class="title">
+            ÂèãÊÉÖÈìæÊé•
+        </div>
+        <div class="lw-friendly">
+            <?php foreach (getSetting()['friendly'] as $item): ?>
+                <a href="<?php echo $item['url'] ?>">
+                    <img src="<?php echo $item['url'] ?>/favicon.ico" alt="<?php echo $item['name'] ?>">
+                    <?php echo $item['name'] ?>
+                </a>
+            <?php endforeach; ?>
+        </div>
+    </div>
+</div>

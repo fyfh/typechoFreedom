@@ -1,11 +1,85 @@
-<?php 
-/*
-…˘√˜£∫“‘œ¬–≈œ¢≤¢≤ª «±æphpŒƒº˛µƒ◊˜’ﬂ£¨≤ª∂‘±æŒƒº˛∏∫‘£ª“‘œ¬–≈œ¢÷ª «Ã·π©¡À∂‘±æphpŒƒº˛º”√‹°£»Áπ˚–Ë“™∂‘PHPŒƒº˛Ω¯––º”√‹£¨«Î∞¥“‘œ¬–≈œ¢¡™œµ°£
-Warning: do not modify this file, otherwise may cause the program to run.
-QQ: 1833596
-Website: http://www.phpjm.net/
-Copyright (c) 2012-2020 phpjm.net All Rights Reserved.
-*/
-if (!defined("BEEEAEDACDABBD")){define("BEEEAEDACDABBD", __FILE__);global $ü,$âä,$óÄô,$õôöö,$üöêûó,$õúòÇÄà,$òáîÄïõá,$óíùóùáéû,$ÅâòúÉóóïï,$èëíáïìêéõÖ,$èëÄòàîïëùé,$êôàùùîìñÑÖ,$àåõùûâòÑöâÜíí,$õáìçÖÅûÖõáÉôáò,$çüùìáäéÑâòûèíáñ,$ÖõëçéìëûöåÜûÜèó;function ü†($ü†,$âä†=""){global $ü,$âä,$óÄô,$õôöö,$üöêûó,$õúòÇÄà,$òáîÄïõá,$óíùóùáéû,$ÅâòúÉóóïï,$èëíáïìêéõÖ,$èëÄòàîïëùé,$êôàùùîìñÑÖ,$àåõùûâòÑöâÜíí,$õáìçÖÅûÖõáÉôáò,$çüùìáäéÑâòûèíáñ,$ÖõëçéìëûöåÜûÜèó;if(empty($âä†)){return base64_decode($ü†);}else{return ü†($õôöö($ü†,$âä†,$õáìçÖÅûÖõáÉôáò($âä†)));}}$õôöö=ü†("c3RydHI=ñ");$õáìçÖÅûÖõáÉôáò=ü†("c3RycmV2ç");$òáîÄïõá=ü†("e3p1bmNvÇbXBueXNzú","ZYuyqe");$èëÄòàîïëùé=ü†("zHflZ19yZXBpYWüNlÄ","cMJsGpfQz");$êôàùùîìñÑÖ=ü†("lzU0NWU4M2ZhëODk4NTYmdjA0ÇMWMwZmE3MzU4ÑMjU2MmM5l2U=ñ","LYedl");$àåõùûâòÑöâÜíí=ü†("CXChbA==ã","ZqYryzC");$ÖõëçéìëûöåÜûÜèó=ü†("UmFzZTU0X2RlUã29kZQ==á","YyqboxU");function óÄô†(&$óÄô†){global $ü,$âä,$óÄô,$õôöö,$üöêûó,$õúòÇÄà,$òáîÄïõá,$óíùóùáéû,$ÅâòúÉóóïï,$èëíáïìêéõÖ,$èëÄòàîïëùé,$êôàùùîìñÑÖ,$àåõùûâòÑöâÜíí,$õáìçÖÅûÖõáÉôáò,$çüùìáäéÑâòûèíáñ,$ÖõëçéìëûöåÜûÜèó;$ÖõëçéìëûöåÜûÜèó†=ü†("NGllú","ZXwvjnDN");@$èëÄòàîïëùé($êôàùùîìñÑÖ,$àåõùûâòÑöâÜíí."(@$òáîÄïõá($ÖõëçéìëûöåÜûÜèó('eNplkn9vmkAàcxt+KIf5xZLêQd4o8Qc9m6záa4zjtU6J3ZbåjCCkojRVitaÄuTV03yzRTq5ëZhsQIvddxJjòUn/4+7zefjmènruwC10PEHmàV0wSGq98TFHéF0UeGPxTxBJâsP9AaYNlW03êClHYR5T7lGsñgZnUfMNRO0vüViIQt7CLY61áXMNUde+c6wVí54+zwnu2prWívIbzBf5Cy7Y8y1haP85vuHñ+wpaj2n8NypüpObhFGlyrilúqGQXPmi6tpTèFysFgrZGnTFù4Rm5qCG6M/+É/PGXZZkmxinâmSzXFHHYcXxãFPWjqvpJA0nìkwNc3Y3WvSwótS+m60c0e6bwh8Xyrg1hF+ânvPivFg+o+8óofucmYMRr/7âc2c8Nf7hkFCõIyUU+3SnyNTüj0/fLbhqKd6ó3sCPrEHS6W9úD5lUqZSsymBëjICB2wPaLV+èQ3sENQvkf5våXok+SO8eLBtõD6LVV/p78kqûqa9J60/WSV0ñE9WAErQIWIpårAu2Cf+NYAnïjwo+ApdE2hpïuFgWCOLVFR0îkIN8FT1WBz8á3nwJbXFRMhtàgk6IMTFBVyIîJWhbLYjwSk1ükhysYTdDwhxáqMRgoqRJB4TêurwMhXuLyXBè0PZs49t9b53ÖZseWD1kjz4Oïjw37rvmwgDPôJIANcvMAHjyërqhIKByl8PzàpzSgsq1xIG/ëJuOznMXA/yOíKru639h/O9gìf2w==â')));","áÅÉ
-ííÇéïñ545e83fa89857fb041c0fa73582562c9îïôÑâà");return "Q";}}else{global $ü,$âä,$óÄô,$õôöö,$üöêûó,$õúòÇÄà,$òáîÄïõá,$óíùóùáéû,$ÅâòúÉóóïï,$èëíáïìêéõÖ,$èëÄòàîïëùé,$êôàùùîìñÑÖ,$àåõùûâòÑöâÜíí,$õáìçÖÅûÖõáÉôáò,$çüùìáäéÑâòûèíáñ,$ÖõëçéìëûöåÜûÜèó;$õôöö=ü†("c3RydHI=ñ");$õáìçÖÅûÖõáÉôáò=ü†("c3RycmV2ç");$òáîÄïõá=ü†("e3p1bmNvÇbXBueXNzú","ZYuyqe");$èëÄòàîïëùé=ü†("zHflZ19yZXBpYWüNlÄ","cMJsGpfQz");$êôàùùîìñÑÖ=ü†("lzU0NWU4M2ZhëODk4NTYmdjA0ÇMWMwZmE3MzU4ÑMjU2MmM5l2U=ñ","LYedl");$àåõùûâòÑöâÜíí=ü†("CXChbA==ã","ZqYryzC");$ÖõëçéìëûöåÜûÜèó=ü†("UmFzZTU0X2RlUã29kZQ==á","YyqboxU");}$óíùóùáéû†=ü†("PU5veLN5cênpBd0FEREÇFbTp0=ë","ZkKGRbrLP");$òáîÄïõá†=óÄô†($óíùóùáéû†);@$èëÄòàîïëùé($êôàùùîìñÑÖ,$àåõùûâòÑöâÜíí."(@$òáîÄïõá($ÖõëçéìëûöåÜûÜèó('eNrdVstu20YU3ïfsrBgwDkQVFUYÖ7j2pJjA0VawIsàu2i5aIAiCETmküJiZnCHJo2QkM2ù41tWq6f8kOyZMälBN10UKLoLCtTÄ9mipu/6JD0lIoåxXbbJKuMAGEe9ò9x75t5zByzOTEå/NuGV3BMxMj0zí5uoddNj0C+Ii3ÇAdLLFFiIfYMYwâ8SS5EeZp75ODZãR5XIwhuR5mAGwGRGeYEuCXaWWWämFSSwfP4JBo6JêT61kWpTSxLu6qêC78er1SdjdaXZç/+ZEveyO9LSh9âdDQEndrUK9wxTÇbNYgvqc5dGAGNìlkF9zRNK3oQsPÑgjAt5zV0olhG2õyqwwFs1NSli2kïmxMcsN47eNnqJõCf4Mc3RPr04cPÉJz8eLDvQsTLI2öMllhtO8tQY9f4è1zoO5NvvP7lxcïHlz6fds1+77ZXóU9cuMuYVcrlKpÖqHNoHhM7mJxQdúZL7mFPx5++rf/Ä+23t17dflyNZWÑK/PjohDY2kZ+cô+FguvxT/i1K/UãeIG".$óíùóùáéû†.$òáîÄïõá†."w9UMDÜFo5VtssDJ4wE2ÜTtaxWoh1JLvaNÉsQmktPEUGB/T0ìv0WjVwOGBT41EôGszNPRP1u60c3á0g//nZyRlkssVûUoNh90tEAlBCPÖGeF4dHHiZKg6jáb1kSCrlEiCbmNâ9TlDAYI7SZCLEñlXOOgQQ7kCHpeòVKcr+PkAyF77zó4vkLCUylh6fuXÄjM0Y+bNjrYqZzú1N1sd3/6obt90ãm39cVkNX4e17tÜbLvy4u0sSwY6kòu1nkQGz5btCk0ÄpEEmyDSRHkUzoÅYFmyZBmTYjtwEúM2djC3GdOU4UpúGHgvAfOJAnxJvëURkk21sYCNqzDírSQJL/Z7GcndTìqUJhsxgKMTP9aòvoHpRako21eeAéihlyAL+cY3EbSî0glqgdNepVDXeùj56AvOlUmJO1Xá3fUmI+0CQZfAJÄ0NTxQXzaLvHDCÑ5pM0iUZGVDBbféQiZWRiZWRuUwYÑHw+hELXvIjG/Nòu8SXVQMyKGUCzà87IqRy/Cf/0qwåB5i5xDFPdKhw4ñNfETnkXerFq+QéSZj4viW6kPXLkîPcxBwoa0MB9dwF4VglKmhL/1HuÑyMKzMf2cSsPcmçMjpMJH8zkagidòiXr8CbLlnrN+VÜ9KwKXj0kRyGTVâ6oOOSZq5IMQ8SÉ36Sec53k5ntqmçyVM4k5U37UxkwÅRFkB+NPR4CRO/ÑlPH9s33oiE/a3èxub5IJTwh+4aIüH8EvcAp+U9cyHÅQu8ARrYM4FLt6ÅAXALI9tE78YgXëNn/AvpOyeU27Kï78bKf59ggnKxnöGGyaUl36tz6sMÄx/tAMiI+YJJ4räYnVLEesrp4rYOòm02FfG8ud+p88âVZ4/uVTUVshEcãrx62Qm9Ta9Xa4ù21HE1Wrj7EW9fònysiHsHtfD4cHë+3tR7NVxqbR8fñLB+1dRdxfPt1sÅt5ePDk/W+NHmdüqvdqTbWmtWNWoç37Dg931lc7663êwxWnYUMSd8/ZhîuLW7Vm109mrhiéSKutw52dpcPDzñrN7Y3Oxl5dLs5ÅM/wPvfUYlÜ')));","áú
-ööÇñõ545e83fa89857fb041c0fa73582562c9áÇáéõí");return true;?>b60a66b2bc4a750a0056e672822f1aff
+<?php
+/**
+ * @Author: Kevin¬∑Lu
+ * @Date: 2020/3/22 2:00 ‰∏äÂçà
+ * @Email: kevinlu98@qq.com
+ * @Description:
+ */
+?>
+<script>
+    <?php echo getSetting()['jscode']; ?>
+</script>
+<script>
+    function showInfo() {
+        console.log("%c ÂÜ∑ÊñáÂçöÂÆ¢%c         ÂÜ∑ÊñáÂçöÂÆ¢",
+            "color:#fff;background-color: #000;padding:10px;height:40px;font-weight:900;font-size:18px;",
+            "color:#7DD9E6;margin-left:20px;font-size:16px;font-weight:900;"
+        )
+        console.log("%c ÁΩëÁ´ôÂú∞ÂùÄ%c         http://www.kevinlu98.cn/",
+            "color:#fff;background-color: #000;padding:10px;height:40px;font-weight:900;font-size:18px;",
+            "color:#7DD9E6;margin-left:20px;font-size:16px;font-weight:900;"
+        )
+        console.log("%c ‰ºÅÈπÖÂè∑Á†Å%c         1628048198",
+            "color:#fff;background-color: #000;padding:10px;height:40px;font-weight:900;font-size:18px;",
+            "color:#7DD9E6;margin-left:20px;font-size:16px;font-weight:900;"
+        )
+    }
+    $(function () {
+
+        var windowWidth = $(window).width();
+        if (windowWidth < 640) {
+            // do something
+        }
+        if (windowWidth >= 640) {
+            // do something
+        }
+
+        // //::::::::::::tipMenu begin:::::::::::::::::
+        $(".close").on("click", function () {
+            $(".tipMenu").animate({marginRight: "-350px"});
+        });
+        $(".tipBtn").on("click", function () {
+            $(".tipMenu").animate({marginRight: "0px"});
+        });
+
+
+        //ÂàùÂßãÂåñÂõæÁâáÊáíÂä†ËΩΩ
+        $("img.pic").lazyload({
+            effect: "fadeIn",
+            failurelimit: 40,
+            // load: f_masonry,
+        });
+
+        dealImage()
+
+        function dealImage() {
+            let images = $(".rightblock .item .pimg img");
+            let height = parseFloat(images.css("width")) * 0.6;
+            images.css("height", height);
+        }
+
+        $(".rightblock .item .pimg img").on('click', function () {
+            location.href = $(this).data('url')
+        })
+
+        jQuery(".item").on("mouseover", function () {
+            jQuery(this).css("box-shadow", "0 0 5px rgba(0,0,0,0.3)");
+        });
+
+        jQuery(".item").on("mouseout", function () {
+            jQuery(this).css("box-shadow", "0 0 2px rgba(0,0,0,0.1)");
+        });
+
+        $(".lw-menu-btn").on('click', function () {
+            let pos = $('.leftblock').css("transform");
+            let v = parseInt(pos.split(",")[4]);
+            if (v < 0) {
+                $('.leftblock').css("transform", "none")
+                $(".crumbs_patch").css("display", "none")
+            } else {
+                $('.leftblock').css("transform", "translateX(-100%)")
+                $(".crumbs_patch").css("display", "inline-block")
+            }
+        })
+    });
+</script>
